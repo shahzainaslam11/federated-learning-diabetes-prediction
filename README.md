@@ -1,8 +1,3 @@
-Here is your content cleaned, validated, and ready for direct pasting into a GitHub README (removed broken references like `:contentReference[...]`, fixed formatting consistency, and ensured GitHub-compatible Markdown):
-
----
-
-````markdown
 # 🧠 Explainable Federated Learning with Differential Privacy for Type-2 Diabetes Readmission Prediction
 
 > A research-grade, reproducible machine learning framework integrating **Federated Learning (FL)**, **Differential Privacy (DP)**, **Class Imbalance Handling**, and **Explainable AI (XAI)** for predicting 30-day hospital readmission in Type-2 Diabetes patients.
