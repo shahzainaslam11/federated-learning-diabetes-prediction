@@ -1,0 +1,20 @@
+seed: 42
+
+data:
+  path: data/raw/diabetic_data.csv
+
+training:
+  n_folds: 10
+
+models:
+  rf:
+    n_estimators: 100
+    max_depth: 8
+  xgb:
+    n_estimators: 100
+    max_depth: 5
+    learning_rate: 0.08
+  lgbm:
+    n_estimators: 100
+    max_depth: 5
+    learning_rate: 0.08
