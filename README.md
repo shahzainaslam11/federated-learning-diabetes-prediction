@@ -1,4 +1,4 @@
-# Explainable Federated Learning for Privacy-Preserving Diabetes Prediction
+# Explainable Federated Learning for Privacy-Preserving Diabetes Prediction 
 
 ## Overview
 This project presents a federated learning approach for predicting Type-2 diabetes risk while preserving data privacy. It enables collaborative model training across multiple institutions without sharing sensitive patient data.
